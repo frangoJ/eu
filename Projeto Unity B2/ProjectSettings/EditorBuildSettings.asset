@@ -9,8 +9,8 @@ EditorBuildSettings:
     path: Assets/Scenes/tela inicial.unity
     guid: 56297a8eaff511b4eb78f4a12000d9ec
   - enabled: 1
-    path: "Assets/Scenes/configura\xE7\xE3o.unity"
-    guid: f0cec468ea6a1a3428eb4b13b97212d0
+    path: Assets/Scenes/jogo.unity
+    guid: fba6f9550e2d45d4aa8c6ea67d8acb36
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
